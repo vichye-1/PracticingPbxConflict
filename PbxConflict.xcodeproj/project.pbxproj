@@ -51,9 +51,7 @@
 		EF7BB59E2CB4CD1300E2FFBA /* PbxConflict */ = {
 			isa = PBXGroup;
 			children = (
-				EF7BB59F2CB4CD1300E2FFBA /* PbxConflictApp.swift */,
-				EF7BB5A12CB4CD1300E2FFBA /* ContentView.swift */,
-				EF7BB5A32CB4CD1400E2FFBA /* Assets.xcassets */,
+				EF7BB5AD2CB4D03C00E2FFBA /* Knockknock */,
 				EF7BB5A52CB4CD1400E2FFBA /* Preview Content */,
 			);
 			path = PbxConflict;
@@ -65,6 +63,16 @@
 				EF7BB5A62CB4CD1400E2FFBA /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		EF7BB5AD2CB4D03C00E2FFBA /* Knockknock */ = {
+			isa = PBXGroup;
+			children = (
+				EF7BB59F2CB4CD1300E2FFBA /* PbxConflictApp.swift */,
+				EF7BB5A12CB4CD1300E2FFBA /* ContentView.swift */,
+				EF7BB5A32CB4CD1400E2FFBA /* Assets.xcassets */,
+			);
+			path = Knockknock;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
